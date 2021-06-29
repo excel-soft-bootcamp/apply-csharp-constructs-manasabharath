@@ -6,9 +6,9 @@ using System.Threading.Tasks;
 
 namespace TataCarApp
 {
-    class IEngine
+    public interface IEngine
     {
-        public void Start() { }
-        public void Stop() { }
+        public void Start();
+        public void Stop(); 
     }
 }
