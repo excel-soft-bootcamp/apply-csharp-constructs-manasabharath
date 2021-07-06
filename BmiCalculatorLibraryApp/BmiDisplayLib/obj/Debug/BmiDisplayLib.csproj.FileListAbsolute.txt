@@ -1,0 +1,5 @@
+C:\Users\manasa.v\source\repos\BmiCalculatorLibraryApp\BmiDisplayLib\bin\Debug\BmiDisplayLib.dll
+C:\Users\manasa.v\source\repos\BmiCalculatorLibraryApp\BmiDisplayLib\bin\Debug\BmiDisplayLib.pdb
+C:\Users\manasa.v\source\repos\BmiCalculatorLibraryApp\BmiDisplayLib\obj\Debug\BmiDisplayLib.csproj.CoreCompileInputs.cache
+C:\Users\manasa.v\source\repos\BmiCalculatorLibraryApp\BmiDisplayLib\obj\Debug\BmiDisplayLib.dll
+C:\Users\manasa.v\source\repos\BmiCalculatorLibraryApp\BmiDisplayLib\obj\Debug\BmiDisplayLib.pdb
