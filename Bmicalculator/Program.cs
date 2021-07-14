@@ -8,9 +8,7 @@ namespace Bmicalculator
         static void Main(string[] args)
         {
             HealthDetails health = new HealthDetails();
-
-
-
+            
             BmiValueCalculator value = new BmiValueCalculator();
             int BmiValue = value.calculator(health.Height(), health.Weight());
 
